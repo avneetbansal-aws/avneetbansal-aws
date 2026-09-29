@@ -23,6 +23,7 @@ Contributions accepted **on their merits by the projects' own maintainers** (pro
 | [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts/pull/5064) | #5064 | kostis-codefresh (Argo maintainer) | CNCF **Graduated** |
 | [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks/pull/3753) | #3753 | bryantbiggs (module lead maintainer) | The community EKS Terraform module |
 | [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero/pull/10590) | #10590 | kaovilai (Velero maintainer) | CNCF **Sandbox** (K8s backup/DR) |
+| [ansible-collections/amazon.aws](https://github.com/ansible-collections/amazon.aws/pull/3110) | #3110 (code) | abikouo + GomathiselviS (2 maintainers) | Official Ansible AWS collection |
 
 ## Also contributing to (open PRs in review)
 
