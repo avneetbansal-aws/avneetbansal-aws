@@ -1,10 +1,12 @@
 # Hi, I'm Avneet 👋
 
-Senior Delivery Consultant at AWS ProServe. I work on **cloud platform engineering** — EKS/Kubernetes at scale, node autoscaling, GitOps, and AI/ML infrastructure — and I contribute to the cloud-native open-source ecosystem I build on.
+Senior Delivery Consultant at AWS ProServe. I work on **cloud platform engineering** — EKS/Kubernetes at scale, node autoscaling, GitOps, and AI/ML infrastructure and I contribute to the cloud-native open-source ecosystem I build on.
 
 - 🔭 Day to day: architecting and operating Kubernetes platforms (EKS, Karpenter, Istio, ArgoCD/Flux) and AI-driven infrastructure orchestration (Amazon Bedrock, AgentCore).
 - 🌱 Contributing across the CNCF ecosystem — KEDA, Argo, Velero, external-dns, cert-manager, Karpenter, and the AWS Controllers for Kubernetes (ACK) project.
 - 💬 Happy to talk about Kubernetes autoscaling, GPU/AI workloads on EKS, and running cloud-native platforms in production.
+- 🎤 Community speaker on Kubernetes, EKS, and production AI agents (Orlando AWS User Group, IEEE AIC 2026, and hands-on EKS/GenAI workshops).
+- 📜 Credentials: CKA · CKAD · CKS · AWS Solutions Architect Professional · AWS DevOps Engineer Professional · AWS GenAI Developer Professional · Prometheus Certified Associate · HashiCorp Terraform Associate.
 
 ## Open-source libraries I authored
 
