@@ -25,4 +25,4 @@ I contribute code and documentation fixes to independently governed open-source 
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/avneet-bansal-4402231b/) · Writing on [dev.to](https://dev.to/avneet_bansal_a65b3f31fc4) · Research on [ResearchGate](https://www.researchgate.net/profile/Avneet-Bansal) and [Google Scholar](https://scholar.google.com/citations?user=cK7eLLoAAAAJ) · Based in the US, working with customers worldwide.
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/avneet-bansal-4402231b/) · Writing on [dev.to](https://dev.to/avneet_bansal_a65b3f31fc4) and [CoderLegion](https://coderlegion.com/user/Avneet) · Research on [ResearchGate](https://www.researchgate.net/profile/Avneet-Bansal) and [Google Scholar](https://scholar.google.com/citations?user=cK7eLLoAAAAJ) · Based in the US, working with customers worldwide.
